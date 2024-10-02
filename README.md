@@ -44,7 +44,7 @@
 
 ###
 
-![Snake Animation](https://github.com/Platane/snk.svg?username=Raissamarq)
+![Snake Animation](https://github.com/Platane/snk/raw/output/snake.svg?username=Raissamarq)
 
 ###
 
