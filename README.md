@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Raissamarq/Raissamarq/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://github.com/Platane/snk.svg?username=Raissamarq)
 
 ###
 
