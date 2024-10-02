@@ -42,10 +42,6 @@
 <div align="left">
 </div>
 
-###
-
-![Snake Animation](https://github.com/Platane/snk/raw/output/snake.svg?username=Raissamarq)
-
 
 ###
 
