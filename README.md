@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 👋! Eu sou Raissa.<br>Bem-vindos ao meu portfólio! 🎉</h2>
+<h2 align="center">Hello World 👋! <br>Bem-vindos ao meu portfólio! 🎉</h2>
 
 ###
 
