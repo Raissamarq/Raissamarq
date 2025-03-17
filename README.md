@@ -3,7 +3,8 @@
 <p>👩🏽‍💻 Me chamo Raissa Marques de Barros, tenho 22 anos e sou de São Paulo. </p>
 <p>🎓 Formada em Análise e Desenvolvimento de Sistemas pela UNIP.</p>
 <p>💻 Apaixonada por tecnologia e por criar experiências incríveis na web. </p>
-<p>🎯 Aqui você encontrará projetos pessoais, desafios de UI e experimentos com novas tecnologias. Sempre aprendendo 🚀!</p>
+<p>🎯 Aqui você encontrará projetos pessoais, desafios de UI e experimentos com novas tecnologias. </p>
+<p>Sempre aprendendo 🚀!</p>
 
 
 
