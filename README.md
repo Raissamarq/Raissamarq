@@ -1,5 +1,9 @@
 <h2 align="center">Hello World 👋! <br>Bem-vindos ao meu portfólio! 🎉</h2>
 
+<p>
+  Me chamo Raissa Marques de Barros, tenho 22 anos e sou de São Paulo. Formada em Análise e Desenvolvimento de Sistemas pela UNIP. Apaixonada por tecnologia e por criar experiências incríveis na web. Trabalho principalmente com HTML, CSS, JavaScript, React. Aqui você encontrará projetos pessoais, desafios de UI e experimentos com novas tecnologias. Sempre aprendendo 🚀!
+</p>
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raissamarq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
